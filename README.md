@@ -72,11 +72,9 @@ The goal is to derive **actionable business insights** through structured querie
 ---
 
 ## 👤 Author
-**Allapu Srivarshan**  
-Aspiring Data Analyst  
-📧 Email: allapusrivarshan6@gmail.com
-
-> “SQL projects highlight a data analyst’s proficiency in retrieving, transforming, and analyzing data from real-world databases, demonstrating their ability to generate actionable insights through structured queries and analytical thinking.”
+**MANDALA ANANYA**  
+ 
+📧 Email: mandalaananya@gmail.com
 
 ---
 
